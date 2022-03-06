@@ -19,7 +19,7 @@ Logo menos a apresentação estará disponível.
 
 <div align="center">
 
-  <img src="./images/1.png" height=300px>
+  <img src="./images/img1.png" height=300px>
 
   [Figura 1: Imagem do programa](./images/img1.png)
 
@@ -27,7 +27,7 @@ Logo menos a apresentação estará disponível.
   
 <div align="center">
 
-  <img src="./images/2.png" height=300px>
+  <img src="./images/img2.png" height=300px>
   
   [Figura 2: Imagem do programa](./images/img2.png)
   
@@ -35,7 +35,7 @@ Logo menos a apresentação estará disponível.
   
 <div align="center">
 
-  <img src="./images/3.png" height=300px>
+  <img src="./images/img3.png" height=300px>
   
   [Figura 3: Imagem do programa](./images/img3.png)
   
