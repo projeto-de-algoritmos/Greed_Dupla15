@@ -12,20 +12,70 @@
 ## Sobre 
 O objetivo desse projeto é utilizar a resolução de 3 exercícios retirados do [HackerRank](https://www.hackerrank.com/) como forma de apresentar exemplos que se utiliza a ideia dos 'Algoritmos Ambiciosos'.
 
+### Apresentação
+Logo menos a apresentação estará disponível.
+
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+
+<div align="center">
+
+  <img src="./images/1.png" height=300px>
+
+  [Figura 1: Imagem do programa](./images/img1.png)
+
+</div>
+  
+<div align="center">
+
+  <img src="./images/2.png" height=300px>
+  
+  [Figura 2: Imagem do programa](./images/img2.png)
+  
+ </div>
+  
+<div align="center">
+
+  <img src="./images/3.png" height=300px>
+  
+  [Figura 3: Imagem do programa](./images/img3.png)
+  
+</div>
 
 ## Instalação 
-**Linguagem**: xxxxxx<br>
+**Linguagem**: Python<br>
 **Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+
+Siga as instruções a seguir para rodar o programa:
+
+1) Fazer a instalação do Python, em uma versão superior a 3.6
+
+2) Clonar o repositório.
+
+```sh 
+git clone https://github.com/projeto-de-algoritmos/Grafos2_TransmissaoCOVID.git
+```
+
+3) Acessar a pasta da aplicação 
+
+```sh 
+cd Greed_Dupla15/
+```
+
+6) Analisar as soluções das seguintes pastas: 
+
+```sh 
+board-cutting.py
+luck-balance.py
+minimum-absolute-difference-in-an-array.py
+```
+
+7) Você agora poderá testar as soluções na página do [HackerRank](https://www.hackerrank.com/) acessando os links que estão na segunda linha dos arquivos de código.
 
 ## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
+Após avaliar, você poderá verificar se as saídas estão correspondentes às saídas esperadas.
 
 ## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
-
+Extraímos as questão do site do [HackerRank](https://www.hackerrank.com/).
 
 
 
