@@ -61,7 +61,7 @@ git clone https://github.com/projeto-de-algoritmos/Grafos2_TransmissaoCOVID.git
 cd Greed_Dupla15/
 ```
 
-6) Analisar as soluções das seguintes pastas: 
+4) Analisar as soluções das seguintes pastas: 
 
 ```sh 
 board-cutting.py
@@ -69,7 +69,7 @@ luck-balance.py
 minimum-absolute-difference-in-an-array.py
 ```
 
-7) Você agora poderá testar as soluções na página do [HackerRank](https://www.hackerrank.com/) acessando os links que estão na segunda linha dos arquivos de código.
+5) Você agora poderá testar as soluções na página do [HackerRank](https://www.hackerrank.com/) acessando os links que estão na segunda linha dos arquivos de código.
 
 ## Uso 
 Após avaliar, você poderá verificar se as saídas estão correspondentes às saídas esperadas.
