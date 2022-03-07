@@ -10,7 +10,7 @@
 | 18/0145088  |  Gabriel Bonifácio |
 
 ## Sobre 
-O objetivo desse projeto é utilizar a resolução de 3 exercícios retirados do [HackerRank](https://www.hackerrank.com/), disponíveis na [aba de Algoritmos Ambiciosos](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=greedy) como forma de apresentar exemplos que se utiliza a ideia dos Algoritmos Ambiciosos. 
+O objetivo desse projeto é utilizar a resolução de 3 exercícios retirados do [HackerRank](https://www.hackerrank.com/), disponíveis na [aba de Algoritmos Ambiciosos](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=greedy), como forma de apresentar exemplos que se utiliza a ideia dos Algoritmos Ambiciosos. 
 
 ### Apresentação
 Logo menos a apresentação estará disponível.
