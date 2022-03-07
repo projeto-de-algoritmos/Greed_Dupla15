@@ -75,7 +75,7 @@ minimum-absolute-difference-in-an-array.py
 Após avaliar, você poderá verificar se as saídas estão correspondentes às saídas esperadas.
 
 ## Outros 
-Extraímos as questão do site do [HackerRank](https://www.hackerrank.com/).
+Extraímos as questões do site do [HackerRank](https://www.hackerrank.com/).
 
 
 
